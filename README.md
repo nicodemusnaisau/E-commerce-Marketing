@@ -2,6 +2,10 @@
 
 ---
 
+![Tux, the Linux mascot](/img/ecommerce_ilustration.jpg)
+
+<center><sup>image by freepik</sup></center>
+
 # Background Project
 
 Maven Fuzzy is a company that specializes in selling a wide range of products online. They offer a variety of products, including clothing, accessories, home goods, and more, and they are constantly expanding their product offerings.
